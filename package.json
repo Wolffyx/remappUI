@@ -30,7 +30,8 @@
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "prepare": "pnpm build"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.3",
