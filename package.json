@@ -6,7 +6,7 @@
   "author": "Wolffyx <wolffyx@wolffyx.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wolffyx/remappr-ui.git"
+    "url": "git+https://github.com/Wolffyx/remappUI.git"
   },
   "type": "module",
   "sideEffects": [
